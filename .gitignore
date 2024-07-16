@@ -405,3 +405,13 @@ iac/terraform/.terraform/** */
 iac/.terraform/** */
 iac/terraform/Part1_Main_Module/terraform.tfstate
 iac/terraform/Part1_Main_Module/terraform.tfstate.backup
+iac/terraform/Part1_Modules/.terraform.lock.hcl
+iac/terraform/Part1_Modules/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.112.0/windows_amd64/LICENSE.txt
+iac/terraform/Part1_Modules/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.112.0/windows_amd64/terraform-provider-azurerm_v3.112.0_x5.exe
+iac/terraform/Part1_Modules/.terraform/providers/registry.terraform.io/hashicorp/random/3.6.2/windows_amd64/LICENSE.txt
+iac/terraform/Part1_Modules/.terraform/providers/registry.terraform.io/hashicorp/random/3.6.2/windows_amd64/terraform-provider-random_v3.6.2_x5.exe
+
+**/*/terraform-provider-azurerm_v3.112.0_x5.exe
+**/*/.terraform.lock.hcl
+**/*/terraform.tfstate.backup
+**/*/terraform.tfstate
