@@ -1,7 +1,6 @@
 variable "resourceGroupName" { 
     type = string 
     nullable = false 
-    default = "iac-training-rg" 
 } 
 variable "storageAccountName" { 
     type = string 
