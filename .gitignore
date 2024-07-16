@@ -404,3 +404,4 @@ iac/terraform/Part1_Main_Module/.terraform/providers/registry.terraform.io/hashi
 iac/terraform/.terraform/** */
 iac/.terraform/** */
 iac/terraform/Part1_Main_Module/terraform.tfstate
+iac/terraform/Part1_Main_Module/terraform.tfstate.backup
