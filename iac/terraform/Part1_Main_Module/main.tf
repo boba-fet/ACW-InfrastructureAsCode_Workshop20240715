@@ -1,6 +1,6 @@
 locals {
     storageAccountNameFull = "${var.storageAccountBase}${var.uniqueIdentifier}"
-    storageAccountNameUnique = "${var.storageAccountName}${var.uniqueIdentifier}${random_string.random.result}"
+    storageAccountNameUnique = substr("${var.storageAccountName}${var.uniqueIdentifier}${random_string.random.id}",0,24)
 }
 
 resource "random_string" "random" {
