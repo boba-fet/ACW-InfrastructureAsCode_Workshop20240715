@@ -402,3 +402,4 @@ iac/terraform/Part1_Main_Module/.terraform/providers/registry.terraform.io/hashi
 iac/terraform/Part1_Main_Module/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.112.0/windows_amd64/terraform-provider-azurerm_v3.112.0_x5.exe
 
 iac/terraform/.terraform/** */
+iac/.terraform/** */
