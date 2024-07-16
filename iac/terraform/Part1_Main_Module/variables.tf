@@ -7,8 +7,3 @@ variable "storageAccountName" {
     nullable = false 
     default = "iacstgacct20291231acw" 
 } 
-variable "location" { 
-    type = string 
-    nullable = false 
-    default = "eastus" 
-} 
