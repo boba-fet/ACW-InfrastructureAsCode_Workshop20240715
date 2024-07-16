@@ -1,4 +1,4 @@
- variable "resourceGroupName" { 
+variable "resourceGroupName" { 
     type = string 
     nullable = false 
     default = "iac-training-rg" 
