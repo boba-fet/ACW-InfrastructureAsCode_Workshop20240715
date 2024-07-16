@@ -1,5 +1,5 @@
 resource "azurerm_storage_account" "iac_stg_acct_module" {
-  name                     = var.storageAccountName
+  name                     = var.storageAccountNameFull
   resource_group_name      = var.resourceGroupName
   location                 = var.location
   account_tier             = "Standard"

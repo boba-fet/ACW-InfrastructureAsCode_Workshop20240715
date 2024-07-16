@@ -1,4 +1,4 @@
-variable "storageAccountName" {
+variable "storageAccountNameFull" {
     type = string
     nullable = false
 }
